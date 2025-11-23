@@ -1,13 +1,13 @@
 # Inventory-Management-System
 VITyarthi CSE Course Project (Python essentials)
 # Overview of the project
-This is a simple console-based inventory management system that allows users to manage product stock levels. Users can view the current inventory, add products or quantities, sell products, and get alerts when product quantities are low. The program runs in a loop until the user chooses to exit.
+This is a simple inventory management system that allows users to manage products and their quantities. Users can view the current inventory, add products or sell products and get alerts when product quantities are low. The program runs in a loop until the user chooses to exit.
 # Features
-Display the current inventory of products and their quantities.
-Add new products or update quantities of existing products.
-Sell products by reducing their quantities in the inventory.
-Alerts when product quantity falls below a threshold (5 units).
-Simple menu-driven user interface for ease of use.
+1.) Display the current inventory of products and their quantities.<br>
+2.) Add new products or update quantities of existing products.<br>
+3.) Sell products by reducing their quantities in the inventory.<br>
+4.) Alerts when product quantity falls below a threshold (5 units).<br>
+5.) Simple menu-driven user interface for ease of use.<br>
 # Technologies/Tools used
 Language - Python 3<br>
 Interface - Command Line Interface (CLI) / Terminal<br>
@@ -31,6 +31,3 @@ To add or sell the products from the inventory:<br>
 <img width="555" height="472" alt="Screenshot 2025-11-23 231618" src="https://github.com/user-attachments/assets/cd91d77d-5a45-46b0-9348-be16f1153b45" /><br>
 To display the inventory after adding and selling products form the inventory and exiting the inventory:<br>
 <img width="539" height="416" alt="Screenshot 2025-11-23 231709" src="https://github.com/user-attachments/assets/2efc4bb7-9df0-448f-99cc-494fc039e12c" />
-
-
-
