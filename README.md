@@ -30,6 +30,7 @@ To display the inventory:
 To add or sell the products from the inventory:
 <img width="555" height="472" alt="Screenshot 2025-11-23 231618" src="https://github.com/user-attachments/assets/cd91d77d-5a45-46b0-9348-be16f1153b45" /><br>
 To display the inventory after adding and selling products form the inventory and exiting the inventory:
+<img width="539" height="416" alt="Screenshot 2025-11-23 231709" src="https://github.com/user-attachments/assets/2efc4bb7-9df0-448f-99cc-494fc039e12c" />
 
 
 
